@@ -1,0 +1,1 @@
+# Get-URI-or-Bitmap-From-View
